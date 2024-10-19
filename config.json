@@ -8,18 +8,18 @@
     "allowInbox": false,
     "autoClean": true,
     "commandDisabled": [
-        "sim.js"
+        ""
     ],
     "eventDisabled": [
-        "join.js"
+        ""
     ],
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Your-Father",
-    "PREFIX": "/",
+    "BOTNAME": "Silly-B",
+    "PREFIX": "+",
     "ADMINBOT": [
-        "100037743553265"
+        "100040426712109"
     ],
     "NDH": [
         "100037743553265"
