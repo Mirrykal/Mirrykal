@@ -1,4 +1,4 @@
-# Priyansh Bot v2
+# Mirrykal
 
 Welcome to **Priyansh Bot v2**! This is a powerful and customizable bot built for automating various tasks on Facebook Messenger.
 
